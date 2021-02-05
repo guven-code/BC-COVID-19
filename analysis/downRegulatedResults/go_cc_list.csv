@@ -1,0 +1,104 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Ribonucleoprotein complex,681,39.6,223,1.85e-111,4.15e-109
+Ribosome,249,14.5,135,7.91e-101,8.89e-99
+Cytosol,2660,155,417,1.05e-95,7.89e-94
+Macromolecular complex,4800,279,574,2.06e-92,1.16e-90
+Ribosomal subunit,154,8.95,102,1.27e-88,5.73e-87
+Nuclear lumen,2690,156,405,1.55e-86,5.8e-85
+Nuclear part,3330,194,450,3e-82,9.66e-81
+Organelle lumen,3380,197,454,3.56e-82,1e-80
+Membrane_enclosed lumen,3440,200,458,7.62e-82,1.91e-80
+Non_membrane_bounded organelle,3940,229,472,6.05e-69,1.24e-67
+Intracellular non_membrane_bounded organelle,3940,229,472,6.05e-69,1.24e-67
+Cytosolic part,204,11.9,100,9.86e-69,1.85e-67
+Nucleoplasm,1820,106,292,2.65e-64,4.58e-63
+Nucleolus,652,37.9,143,7.78e-46,1.25e-44
+Small ribosomal subunit,72,4.19,42,1.66e-33,2.5e-32
+Intracellular organelle part,8620,501,671,2.1e-30,2.95e-29
+Organelle part,8790,511,680,3.55e-30,4.7e-29
+Nucleoplasm part,910,52.9,141,8.38e-28,1.05e-26
+Organellar ribosome,59,3.43,33,9.18e-26,1.03e-24
+Mitochondrial ribosome,59,3.43,33,9.18e-26,1.03e-24
+Protein complex,4050,236,373,3.5e-24,3.75e-23
+Nucleus,7600,442,592,1.68e-23,1.72e-22
+Nuclear body,295,17.1,54,3.78e-14,3.69e-13
+Spliceosomal complex,161,9.36,37,3.45e-13,3.23e-12
+Transcription factor complex,303,17.6,52,1.56e-12,1.41e-11
+Proteasome complex,117,6.8,29,1.71e-11,1.48e-10
+Membrane raft,189,11,37,5.51e-11,4.59e-10
+Cell leading edge,283,16.5,44,2.12e-09,1.7e-08
+Small nuclear ribonucleoprotein complex,40,2.33,15,2.68e-09,2.08e-08
+Cell cortex,195,11.3,34,7.7e-09,5.77e-08
+"DNA_directed RNA polymerase II, holoenzyme",93,5.41,22,1.2e-08,8.73e-08
+DNA_directed RNA polymerase complex,105,6.1,23,2.68e-08,1.83e-07
+Nuclear DNA_directed RNA polymerase complex,105,6.1,23,2.68e-08,1.83e-07
+RNA polymerase complex,106,6.16,23,3.24e-08,2.11e-07
+Nuclear chromosome,320,18.6,45,3.29e-08,2.11e-07
+Nuclear chromosome part,273,15.9,40,6.17e-08,3.85e-07
+Nuclear ubiquitin ligase complex,26,1.51,11,8.34e-08,5.07e-07
+Nuclear membrane,207,12,33,1.19e-07,7.03e-07
+Mitochondrial matrix,329,19.1,44,2.03e-07,1.14e-06
+Mitochondrial matrix,329,19.1,44,2.03e-07,1.14e-06
+Receptor complex,189,11,30,4.87e-07,2.67e-06
+Lamellipodium,127,7.38,23,1.01e-06,5.43e-06
+Ruffle,135,7.85,23,3.03e-06,1.58e-05
+Cell_substrate junction,147,8.54,24,4.02e-06,2.06e-05
+U12_type spliceosomal complex,24,1.4,9,4.32e-06,2.12e-05
+Nucleolar part,30,1.74,10,4.34e-06,2.12e-05
+Cell_substrate adherens junction,138,8.02,23,4.45e-06,2.13e-05
+Focal adhesion,132,7.67,22,7.14e-06,3.34e-05
+Histone deacetylase complex,53,3.08,13,7.63e-06,3.5e-05
+Perinuclear region of cytoplasm,475,27.6,52,8.13e-06,3.66e-05
+Ubiquitin ligase complex,165,9.59,25,9.97e-06,4.4e-05
+Organellar small ribosomal subunit,21,1.22,8,1.31e-05,5.52e-05
+Mitochondrial small ribosomal subunit,21,1.22,8,1.31e-05,5.52e-05
+Chromosome,784,45.6,75,1.32e-05,5.52e-05
+Spindle,261,15.2,33,2.18e-05,8.9e-05
+Myosin complex,75,4.36,15,2.24e-05,8.98e-05
+Actin filament,51,2.96,12,2.68e-05,0.000106
+Cytoskeleton,2200,128,171,2.8e-05,0.000109
+Adherens junction,212,12.3,28,4.09e-05,0.000156
+Actin cytoskeleton,430,25,46,4.75e-05,0.000178
+Basolateral plasma membrane,162,9.42,23,6.36e-05,0.000235
+Condensed nuclear chromosome,73,4.24,14,6.78e-05,0.000246
+Neuron projection,685,39.8,64,0.000114,0.000407
+Nuclear chromatin,159,9.24,22,0.000134,0.000471
+Cortical cytoskeleton,60,3.49,12,0.000146,0.000504
+Nuclear envelope,387,22.5,41,0.000149,0.000508
+Contractile fiber part,187,10.9,24,0.00022,0.00074
+Growth cone,92,5.35,15,0.000255,0.000844
+Chromosomal part,670,38.9,61,0.000328,0.00107
+Site of polarized growth,96,5.58,15,0.00041,0.00132
+Dendrite,342,19.9,36,0.000417,0.00132
+PML body,77,4.48,13,0.000457,0.00142
+Cell cortex part,97,5.64,15,0.00046,0.00142
+Cytoskeletal part,1570,91.5,121,0.000769,0.00234
+"DNA_directed RNA polymerase II, core complex",14,0.814,5,0.000846,0.00251
+Condensed chromosome,193,11.2,23,0.000849,0.00251
+Pore complex,103,5.99,15,0.000877,0.00256
+Microtubule cytoskeleton,1120,65,90,0.000948,0.00274
+Sarcomere,163,9.47,20,0.00126,0.00358
+Nuclear speck,152,8.84,19,0.00132,0.00371
+Nuclear pore,86,5,13,0.00134,0.00371
+Contractile fiber,214,12.4,24,0.00155,0.00425
+Immunological synapse,23,1.34,6,0.00163,0.00442
+External side of plasma membrane,204,11.9,23,0.00179,0.00475
+Organelle outer membrane,156,9.07,19,0.00179,0.00475
+Replication fork,50,2.91,9,0.00212,0.00554
+Cell surface,518,30.1,46,0.00279,0.00721
+Outer membrane,163,9.47,19,0.00297,0.00759
+Cell body,290,16.9,29,0.00312,0.0079
+Cell projection,1410,81.8,106,0.0032,0.008
+Mitochondrial outer membrane,133,7.73,16,0.00449,0.0111
+Chromatin,326,18.9,31,0.00488,0.0119
+Myofibril,197,11.5,21,0.00535,0.0129
+Transcription factor TFIID complex,21,1.22,5,0.00612,0.0147
+Axon,269,15.6,26,0.00767,0.0182
+Cytoplasmic part,9740,566,601,0.0102,0.024
+Spindle microtubule,43,2.5,7,0.0113,0.0262
+Microtubule,352,20.5,31,0.014,0.0322
+Intercalated disc,45,2.62,7,0.0144,0.0327
+Mitochondrion,2060,120,142,0.0149,0.0335
+Cortical actin cytoskeleton,37,2.15,6,0.0188,0.0419
+Nuclear matrix,87,5.06,10,0.0292,0.0644
+Microtubule organizing center,543,31.6,42,0.036,0.0786

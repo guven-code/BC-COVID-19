@@ -1,0 +1,111 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Structural constituent of ribosome,167,10.4,122,2.05e-111,7.96e-109
+Structural molecule activity,666,41.4,165,1.75e-57,3.4e-55
+RNA binding,976,60.7,170,5.14e-37,6.64e-35
+Purine ribonucleotide binding,1890,118,236,4.6e-28,4.46e-26
+Purine nucleotide binding,1900,118,236,7.39e-28,5.73e-26
+Enzyme binding,1200,74.5,171,2.5e-26,1.62e-24
+Kinase binding,418,26,84,2.18e-22,1.1e-20
+Protein kinase binding,376,23.4,79,2.27e-22,1.1e-20
+ATP binding,1490,92.5,187,3.52e-22,1.52e-20
+Receptor signaling protein activity,110,6.84,41,6.35e-22,2.46e-20
+Adenyl ribonucleotide binding,1530,94.8,187,6.45e-21,2.27e-19
+Adenyl nucleotide binding,1530,95.1,187,8.69e-21,2.81e-19
+Nucleotide binding,2470,154,260,6.01e-20,1.79e-18
+Protein complex binding,339,21.1,63,2.57e-15,7.13e-14
+Protein domain specific binding,560,34.8,86,3.02e-15,7.82e-14
+Transcription from RNA polymerase II promoter,1930,120,199,5.21e-14,1.26e-12
+Non_membrane spanning protein tyrosine kinase activity,46,2.86,21,5.75e-14,1.31e-12
+Protein kinase activity,960,59.7,119,1.23e-13,2.66e-12
+Transcription factor binding,509,31.6,75,1.7e-12,3.47e-11
+Protein serine/threonine kinase activity,572,35.6,79,1.22e-11,2.37e-10
+"RNA splicing, via transesterification reactions",321,20,54,1.59e-11,2.94e-10
+"Phosphotransferase activity, alcohol group as acceptor",1110,68.7,124,4.01e-11,7.07e-10
+Protein tyrosine kinase activity,222,13.8,42,6.94e-11,1.17e-09
+GTPase activity,241,15,44,8.26e-11,1.34e-09
+Transmembrane receptor protein kinase activity,125,7.77,30,9.23e-11,1.43e-09
+ATP_dependent helicase activity,112,6.96,28,1.4e-10,2.09e-09
+Nucleoside_triphosphatase activity,888,55.2,104,1.56e-10,2.24e-09
+SH2 domain binding,33,2.05,15,2.56e-10,3.55e-09
+SMAD binding,68,4.23,21,4.19e-10,5.6e-09
+"Positive regulation of transcription, DNA_dependent",1260,78.2,132,7.72e-10,9.98e-09
+Receptor signaling protein serine/threonine kinase activity,52,3.23,18,9.23e-10,1.16e-08
+Kinase activity,1190,73.8,125,1.98e-09,2.4e-08
+Pyrophosphatase activity,938,58.3,104,3.4e-09,4e-08
+"Hydrolase activity, acting on acid anhydrides",944,58.7,104,4.8e-09,5.48e-08
+GTP binding,371,23.1,53,1.04e-08,1.15e-07
+Identical protein binding,910,56.6,99,2.23e-08,2.4e-07
+"Negative regulation of transcription, DNA_dependent",987,61.3,105,2.6e-08,2.73e-07
+"Transferase activity, transferring phosphorus_containing groups",1370,85,134,4.18e-08,4.27e-07
+Damaged DNA binding,46,2.86,15,5.89e-08,5.86e-07
+Guanyl nucleotide binding,402,25,53,1.56e-07,1.51e-06
+Protein C_terminus binding,160,9.94,29,1.63e-07,1.54e-06
+"ATPase activity, coupled",313,19.5,44,2.98e-07,2.75e-06
+DNA_dependent ATPase activity,80,4.97,19,3.07e-07,2.77e-06
+Chromatin binding,338,21,46,4.16e-07,3.67e-06
+ATPase activity,417,25.9,52,1.16e-06,1e-05
+Helicase activity,176,10.9,29,1.29e-06,1.09e-05
+Double_stranded DNA binding,149,9.26,26,1.49e-06,1.23e-05
+Protein phosphatase binding,74,4.6,17,2.11e-06,1.7e-05
+Phosphatase binding,116,7.21,22,2.29e-06,1.81e-05
+Structure_specific DNA binding,242,15,35,2.51e-06,1.95e-05
+Transmembrane receptor protein tyrosine kinase activity,88,5.47,18,6.24e-06,4.75e-05
+Histone deacetylase binding,65,4.04,15,7.84e-06,5.85e-05
+SH3 domain binding,118,7.33,21,1.09e-05,8e-05
+Receptor binding,1590,99.1,139,1.69e-05,0.000121
+"Protein binding, bridging",135,8.39,22,2.87e-05,0.000202
+"Binding, bridging",148,9.2,23,4.14e-05,0.000287
+ADP binding,23,1.43,8,4.57e-05,0.000311
+RNA helicase activity,30,1.86,9,5.8e-05,0.000388
+Protein N_terminus binding,86,5.34,16,6.86e-05,0.000451
+Cysteine_type endopeptidase regulator activity involved in apoptotic process,45,2.8,11,7.23e-05,0.000468
+Transcription corepressor activity,208,12.9,28,9.12e-05,0.00058
+Protein binding transcription factor activity,600,37.3,61,9.48e-05,0.000593
+Transcription cofactor activity,552,34.3,56,0.000193,0.00119
+Hormone receptor binding,176,10.9,24,0.000232,0.00141
+Growth factor binding,125,7.77,19,0.000252,0.00149
+Cytokine receptor binding,266,16.5,32,0.000254,0.00149
+RNA_dependent ATPase activity,22,1.37,7,0.000261,0.00151
+MAP kinase activity,16,0.994,6,0.000264,0.00151
+ATP_dependent DNA helicase activity,36,2.24,9,0.000272,0.00153
+SH3/SH2 adaptor activity,52,3.23,11,0.000289,0.0016
+Rho GTPase activator activity,39,2.42,9,0.000518,0.00283
+Kinase inhibitor activity,51,3.17,10,0.00101,0.00541
+Steroid hormone receptor binding,69,4.29,12,0.00102,0.00541
+Ubiquitin_protein ligase activity,291,18.1,32,0.00121,0.00634
+RNA polymerase activity,44,2.73,9,0.00131,0.00678
+ATP_dependent RNA helicase activity,21,1.31,6,0.00137,0.007
+Kinase regulator activity,144,8.95,19,0.00149,0.00751
+Ubiquitin binding,63,3.92,11,0.00158,0.00779
+Protein dimerization activity,996,61.9,85,0.00159,0.00779
+DNA helicase activity,54,3.36,10,0.00161,0.00779
+Small conjugating protein ligase activity,313,19.5,33,0.00206,0.00974
+Small conjugating protein ligase activity,313,19.5,33,0.00206,0.00974
+Protein kinase inhibitor activity,47,2.92,9,0.00213,0.0099
+Small conjugating protein binding,75,4.66,12,0.00214,0.0099
+MRNA binding,99,6.15,14,0.00316,0.0144
+Protein homodimerization activity,573,35.6,52,0.0038,0.0172
+Actin filament binding,71,4.41,11,0.00417,0.0186
+Beta_tubulin binding,26,1.62,6,0.00446,0.0197
+Cysteine_type endopeptidase activity,74,4.6,11,0.00575,0.0251
+Unfolded protein binding,130,8.08,16,0.00673,0.0287
+Nuclear hormone receptor binding,153,9.51,18,0.00674,0.0287
+Insulin_like growth factor receptor binding,14,0.87,4,0.00898,0.0379
+Protein kinase regulator activity,123,7.64,15,0.00926,0.0386
+Growth factor activity,170,10.6,19,0.00938,0.0387
+Structural constituent of muscle,49,3.05,8,0.01,0.041
+Acid_amino acid ligase activity,349,21.7,33,0.0107,0.0431
+Enzyme activator activity,436,27.1,39,0.014,0.0559
+"Ligase activity, forming carbon_oxygen bonds",53,3.29,8,0.0159,0.0628
+Protein heterodimerization activity,374,23.2,34,0.0167,0.0654
+Telomeric DNA binding,17,1.06,4,0.0184,0.0714
+Structural constituent of cytoskeleton,78,4.85,10,0.0222,0.0853
+Ion binding,6140,382,411,0.0232,0.0884
+Thyroid hormone receptor binding,29,1.8,5,0.0314,0.118
+Protein deacetylase activity,39,2.42,6,0.0319,0.119
+Cytoskeletal protein binding,738,45.9,58,0.0376,0.139
+Integrin binding,86,5.34,10,0.0402,0.147
+Nucleotidyltransferase activity,135,8.39,14,0.041,0.149
+Calcium channel activity,111,6.9,12,0.0428,0.154
+Ligase activity,572,35.6,46,0.0432,0.154
+"Ligase activity, forming carbon_nitrogen bonds",393,24.4,33,0.0482,0.17

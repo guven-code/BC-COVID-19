@@ -1,0 +1,121 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Ribosome,153,14.7,112,3.75e-82,1.19e-79
+Apoptosis,136,13.1,69,4.6e-35,7.31e-33
+Hepatitis B,163,15.7,64,1.25e-24,1.32e-22
+ErbB signaling pathway,85,8.17,45,3.48e-24,2.77e-22
+Axon guidance,181,17.4,66,3.08e-23,1.96e-21
+Focal adhesion,199,19.1,69,8.62e-23,4.57e-21
+Pathways in cancer,530,51,124,1.52e-22,6.63e-21
+Epstein-Barr virus infection,201,19.3,69,1.67e-22,6.63e-21
+TGF-beta signaling pathway,92,8.85,45,2.52e-22,8.9e-21
+FoxO signaling pathway,132,12.7,54,6.3e-22,2e-20
+Neurotrophin signaling pathway,119,11.4,50,5.39e-21,1.56e-19
+Colorectal cancer,86,8.27,42,7.05e-21,1.87e-19
+Chronic myeloid leukemia,76,7.31,39,1.82e-20,4.46e-19
+T cell receptor signaling pathway,101,9.71,45,2.99e-20,6.8e-19
+B cell receptor signaling pathway,71,6.83,37,8.91e-20,1.89e-18
+Pancreatic cancer,75,7.21,38,1.02e-19,2.01e-18
+EGFR tyrosine kinase inhibitor resistance,79,7.6,39,1.1e-19,2.01e-18
+Proteoglycans in cancer,201,19.3,65,1.14e-19,2.01e-18
+Fc epsilon RI signaling pathway,68,6.54,35,1.52e-18,2.55e-17
+Cellular senescence,160,15.4,55,3.71e-18,5.9e-17
+Insulin signaling pathway,137,13.2,50,7.34e-18,1.11e-16
+Viral carcinogenesis,201,19.3,62,1.18e-17,1.7e-16
+Proteasome,45,4.33,27,7.14e-17,9.87e-16
+Signaling pathways regulating pluripotency of stem cells,139,13.4,47,2.32e-15,3.07e-14
+Hepatitis C,155,14.9,50,2.54e-15,3.23e-14
+Ribosome biogenesis in eukaryotes,105,10.1,40,2.9e-15,3.55e-14
+Prolactin signaling pathway,70,6.73,32,3.8e-15,4.48e-14
+Kaposi's sarcoma-associated herpesvirus infection,186,17.9,55,6.82e-15,7.75e-14
+Measles,138,13.3,46,8.59e-15,9.41e-14
+PI3K-Akt signaling pathway,354,34,82,9.38e-15,9.94e-14
+AGE-RAGE signaling pathway in diabetic complications,100,9.62,38,1.6e-14,1.65e-13
+Renal cell carcinoma,69,6.64,31,1.88e-14,1.86e-13
+Thyroid hormone signaling pathway,116,11.2,41,2.65e-14,2.55e-13
+Prostate cancer,97,9.33,37,3.11e-14,2.91e-13
+Non-small cell lung cancer,66,6.35,30,3.39e-14,3.08e-13
+Endocrine resistance,98,9.42,37,4.55e-14,4.02e-13
+Adherens junction,72,6.92,31,7.92e-14,6.8e-13
+Ras signaling pathway,232,22.3,61,8.39e-14,7.02e-13
+Endometrial cancer,58,5.58,27,3.22e-13,2.63e-12
+Choline metabolism in cancer,99,9.52,36,3.84e-13,3.05e-12
+VEGF signaling pathway,59,5.67,27,5.4e-13,4.19e-12
+Pathogenic Escherichia coli infection,55,5.29,26,5.66e-13,4.29e-12
+Insulin resistance,108,10.4,37,1.49e-12,1.1e-11
+Regulation of actin cytoskeleton,214,20.6,55,4.03e-12,2.91e-11
+Leukocyte transendothelial migration,112,10.8,37,5.24e-12,3.67e-11
+Osteoclast differentiation,128,12.3,40,5.31e-12,3.67e-11
+Platinum drug resistance,73,7.02,29,5.94e-12,4.02e-11
+Apoptosis - multiple species,33,3.17,19,8.54e-12,5.66e-11
+Bacterial invasion of epithelial cells,74,7.12,29,8.89e-12,5.77e-11
+Shigellosis,65,6.25,27,9.21e-12,5.85e-11
+Glioma,75,7.21,29,1.32e-11,8.22e-11
+TNF signaling pathway,110,10.6,36,1.39e-11,8.52e-11
+Longevity regulating pathway - multiple species,62,5.96,26,1.73e-11,1.04e-10
+Fc gamma R-mediated phagocytosis,91,8.75,32,2.25e-11,1.32e-10
+Autophagy - animal,128,12.3,39,2.36e-11,1.36e-10
+Small cell lung cancer,93,8.94,32,4.35e-11,2.47e-10
+Phospholipase D signaling pathway,148,14.2,42,5.14e-11,2.87e-10
+Fluid shear stress and atherosclerosis,139,13.4,40,9.36e-11,5.05e-10
+Acute myeloid leukemia,66,6.35,26,9.37e-11,5.05e-10
+Rap1 signaling pathway,206,19.8,51,1.11e-10,5.89e-10
+Cell cycle,124,11.9,37,1.52e-10,7.94e-10
+Sphingolipid signaling pathway,119,11.4,36,1.76e-10,9.02e-10
+MAPK signaling pathway,295,28.4,64,2e-10,1.01e-09
+Natural killer cell mediated cytotoxicity,131,12.6,38,2.15e-10,1.07e-09
+Longevity regulating pathway,89,8.56,30,3.17e-10,1.55e-09
+Influenza A,167,16.1,43,9.07e-10,4.37e-09
+Gap junction,88,8.46,29,1.15e-09,5.48e-09
+Chemokine signaling pathway,190,18.3,46,2.05e-09,9.58e-09
+Central carbon metabolism in cancer,65,6.25,24,2.37e-09,1.09e-08
+mTOR signaling pathway,153,14.7,39,7.6e-09,3.45e-08
+Breast cancer,147,14.1,38,7.81e-09,3.5e-08
+Adipocytokine signaling pathway,69,6.64,24,9.44e-09,4.17e-08
+Th17 cell differentiation,107,10.3,31,1.05e-08,4.57e-08
+Th1 and Th2 cell differentiation,92,8.85,28,1.65e-08,7.11e-08
+Melanoma,72,6.92,24,2.46e-08,1.04e-07
+HTLV-I infection,219,21.1,48,2.89e-08,1.21e-07
+Hippo signaling pathway,154,14.8,38,3.08e-08,1.27e-07
+Jak-STAT signaling pathway,162,15.6,39,4.19e-08,1.71e-07
+Toxoplasmosis,113,10.9,31,4.31e-08,1.74e-07
+NF-kappa B signaling pathway,100,9.62,28,1.21e-07,4.83e-07
+Platelet activation,124,11.9,32,1.26e-07,4.94e-07
+Basal transcription factors,45,4.33,17,3.56e-07,1.38e-06
+Necroptosis,162,15.6,37,3.91e-07,1.5e-06
+Ubiquitin mediated proteolysis,137,13.2,33,4.59e-07,1.74e-06
+Homologous recombination,41,3.94,16,4.69e-07,1.76e-06
+Type II diabetes mellitus,46,4.42,17,5.15e-07,1.91e-06
+p53 signaling pathway,72,6.92,22,5.3e-07,1.94e-06
+NOD-like receptor signaling pathway,178,17.1,39,5.96e-07,2.15e-06
+Epithelial cell signaling in Helicobacter pylori infection,68,6.54,21,7.89e-07,2.82e-06
+Chagas disease (American trypanosomiasis),103,9.9,27,8.69e-07,3.07e-06
+Progesterone-mediated oocyte maturation,99,9.52,26,1.33e-06,4.65e-06
+MicroRNAs in cancer,299,28.8,55,1.38e-06,4.77e-06
+HIF-1 signaling pathway,100,9.62,26,1.64e-06,5.6e-06
+Tight junction,170,16.3,36,3.76e-06,1.27e-05
+AMPK signaling pathway,120,11.5,28,6.58e-06,2.2e-05
+Non-alcoholic fatty liver disease (NAFLD),149,14.3,32,9.54e-06,3.16e-05
+Toll-like receptor signaling pathway,104,10,25,1.18e-05,3.85e-05
+IL-17 signaling pathway,93,8.94,23,1.59e-05,5.12e-05
+GnRH signaling pathway,93,8.94,23,1.59e-05,5.12e-05
+Aldosterone-regulated sodium reabsorption,37,3.56,13,2.16e-05,6.82e-05
+Thyroid cancer,37,3.56,13,2.16e-05,6.82e-05
+Apelin signaling pathway,137,13.2,29,3.3e-05,0.000103
+Long-term potentiation,67,6.44,18,4.05e-05,0.000125
+Oocyte meiosis,125,12,27,4.22e-05,0.000129
+Inflammatory mediator regulation of TRP channels,100,9.62,23,5.53e-05,0.000167
+Bladder cancer,41,3.94,13,7.44e-05,0.000223
+Estrogen signaling pathway,138,13.3,28,9.9e-05,0.000294
+Fanconi anemia pathway,54,5.19,15,0.000117,0.000343
+Spliceosome,134,12.9,27,0.000148,0.000433
+Tuberculosis,179,17.2,33,0.000174,0.000504
+Mitophagy - animal,65,6.25,16,0.000325,0.000932
+Long-term depression,60,5.77,15,0.000415,0.00118
+Circadian rhythm,31,2.98,10,0.000432,0.00122
+Leishmaniasis,74,7.12,17,0.000513,0.00143
+Oxytocin signaling pathway,153,14.7,28,0.000598,0.00165
+RIG-I-like receptor signaling pathway,70,6.73,16,0.000788,0.00216
+Amyotrophic lateral sclerosis (ALS),51,4.9,13,0.000814,0.00221
+Salmonella infection,86,8.27,18,0.00115,0.0031
+Cholinergic synapse,112,10.8,21,0.00204,0.00545
+Wnt signaling pathway,158,15.2,27,0.00214,0.00567

@@ -1,0 +1,45 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Cytosol,2660,20.9,59,3.45e-15,7.76e-13
+Plasma membrane,5500,43.2,83,9.21e-13,1.04e-10
+Integrin complex,32,0.251,9,2.08e-12,1.56e-10
+Membrane raft,189,1.49,15,2.28e-11,1.28e-09
+Secretory granule,276,2.17,16,5.2e-10,2.34e-08
+Cell leading edge,283,2.22,15,6.34e-09,2.38e-07
+Plasma membrane part,2320,18.2,43,2.49e-08,7.79e-07
+Cell projection,1410,11.1,32,2.9e-08,7.79e-07
+Receptor complex,189,1.49,12,3.11e-08,7.79e-07
+Membrane_bounded vesicle,1100,8.64,26,3.53e-07,7.95e-06
+Extrinsic to plasma membrane,87,0.684,8,4.07e-07,8.33e-06
+Cytoplasmic membrane_bounded vesicle,1020,8.04,24,1.25e-06,2.35e-05
+Vesicle,1210,9.5,26,2.14e-06,3.7e-05
+Cytoplasmic vesicle part,462,3.63,15,3.51e-06,5.64e-05
+External side of plasma membrane,204,1.6,10,4.82e-06,7.15e-05
+Cytoplasmic vesicle,1110,8.71,24,5.08e-06,7.15e-05
+Focal adhesion,132,1.04,8,9.55e-06,0.000126
+Ruffle,135,1.06,8,1.13e-05,0.000133
+Extrinsic to membrane,135,1.06,8,1.13e-05,0.000133
+Cell_substrate adherens junction,138,1.08,8,1.32e-05,0.000149
+Cell_substrate junction,147,1.16,8,2.09e-05,0.000224
+Perinuclear region of cytoplasm,475,3.73,14,2.24e-05,0.000229
+Protein complex,4050,31.8,53,3.04e-05,0.000298
+Adherens junction,212,1.67,9,4.55e-05,0.000426
+Lamellipodium,127,0.998,7,6.44e-05,0.00058
+Extracellular region part,1320,10.4,22,0.000599,0.00514
+Intrinsic to plasma membrane,1320,10.4,22,0.000617,0.00514
+Extracellular space,901,7.08,17,0.000694,0.00558
+Integral to plasma membrane,1270,9.98,20,0.00215,0.0167
+Cell surface,518,4.07,11,0.0026,0.019
+Macromolecular complex,4800,37.7,53,0.00262,0.019
+Cell cortex,195,1.53,6,0.00443,0.0311
+Basement membrane,100,0.786,4,0.00799,0.0545
+Extracellular matrix,570,4.48,10,0.0145,0.096
+Cytoplasmic part,9740,76.5,89,0.0157,0.101
+Centrosome,412,3.24,8,0.0161,0.101
+Extracellular matrix part,204,1.6,5,0.0225,0.137
+Microtubule organizing center,543,4.27,9,0.0276,0.159
+Anchored to plasma membrane,33,0.259,2,0.0276,0.159
+Synapse,558,4.39,9,0.032,0.18
+Cell junction,847,6.66,12,0.0346,0.189
+Cytoskeleton,2200,17.3,25,0.0352,0.189
+Proteinaceous extracellular matrix,398,3.13,7,0.0378,0.198
+Cell cortex part,97,0.762,3,0.041,0.21

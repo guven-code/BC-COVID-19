@@ -1,0 +1,70 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Protein complex binding,339,3.02,26,2.18e-17,8.45e-15
+Purine ribonucleotide binding,1890,16.9,53,1.83e-15,2.72e-13
+Purine nucleotide binding,1900,16.9,53,2.1e-15,2.72e-13
+Phosphorus_oxygen lyase activity,23,0.205,9,1.96e-13,1.9e-11
+Cyclase activity,24,0.214,9,3.11e-13,2.41e-11
+Enzyme binding,1200,10.7,38,1.87e-12,1.21e-10
+Nucleotide binding,2470,22,55,7.01e-12,3.88e-10
+Adenyl ribonucleotide binding,1530,13.6,42,9.18e-12,4.31e-10
+Adenyl nucleotide binding,1530,13.6,42,1e-11,4.31e-10
+"3',5'_cyclic_nucleotide phosphodiesterase activity",34,0.303,8,4.76e-10,1.68e-08
+"3',5'_cyclic_nucleotide phosphodiesterase activity",34,0.303,8,4.76e-10,1.68e-08
+Ion binding,6140,54.7,89,8.58e-10,2.77e-08
+Integrin binding,86,0.766,10,4.42e-09,1.32e-07
+Non_membrane spanning protein tyrosine kinase activity,46,0.41,8,6.26e-09,1.73e-07
+Receptor binding,1590,14.2,38,7.62e-09,1.97e-07
+Protein domain specific binding,560,4.99,21,2.22e-08,5.37e-07
+Transport,4830,43.1,73,4.71e-08,1.08e-06
+Protein tyrosine kinase activity,222,1.98,13,8.93e-08,1.93e-06
+Phosphoric diester hydrolase activity,120,1.07,10,1.12e-07,2.18e-06
+Phosphoric diester hydrolase activity,120,1.07,10,1.12e-07,2.18e-06
+ATP binding,1490,13.3,34,1.7e-07,3.14e-06
+Protein kinase activity,960,8.55,25,1.02e-06,1.8e-05
+"Phosphotransferase activity, alcohol group as acceptor",1110,9.85,27,1.23e-06,2.04e-05
+Protein kinase binding,376,3.35,15,1.26e-06,2.04e-05
+Growth factor binding,125,1.11,9,1.71e-06,2.65e-05
+Kinase binding,418,3.72,15,4.65e-06,6.84e-05
+Kinase activity,1190,10.6,27,4.76e-06,6.84e-05
+Insulin_like growth factor receptor binding,14,0.125,4,5.61e-06,7.78e-05
+Lyase activity,186,1.66,10,6.3e-06,8.37e-05
+SH3/SH2 adaptor activity,52,0.463,6,6.47e-06,8.37e-05
+GTPase activity,241,2.15,11,1.02e-05,0.000125
+SH3 domain binding,118,1.05,8,1.03e-05,0.000125
+Guanyl nucleotide binding,402,3.58,14,1.38e-05,0.000159
+Protein kinase regulator activity,123,1.1,8,1.39e-05,0.000159
+Kinase regulator activity,144,1.28,8,4.36e-05,0.000483
+Collagen binding,47,0.419,5,5.9e-05,0.00062
+"Transferase activity, transferring phosphorus_containing groups",1370,12.2,27,5.91e-05,0.00062
+Cation binding,4160,37,57,0.000124,0.00126
+Protein serine/threonine kinase activity,572,5.1,15,0.000173,0.00172
+"Protein binding, bridging",135,1.2,7,0.000204,0.00197
+"Binding, bridging",148,1.32,7,0.000357,0.00338
+Receptor signaling protein activity,110,0.98,6,0.000447,0.00408
+Enzyme regulator activity,1140,10.2,22,0.000452,0.00408
+Phosphoric ester hydrolase activity,496,4.42,13,0.000481,0.00415
+GTP binding,371,3.3,11,0.000481,0.00415
+Enzyme activator activity,436,3.88,12,0.000518,0.00437
+Kinase activator activity,52,0.463,4,0.00117,0.00965
+Actin binding,373,3.32,10,0.00185,0.015
+Serine_type endopeptidase inhibitor activity,107,0.953,5,0.00267,0.0212
+Protein phosphatase binding,74,0.659,4,0.00428,0.0332
+G_protein coupled receptor binding,232,2.07,7,0.00474,0.0361
+Phospholipid binding,514,4.58,11,0.00621,0.0464
+MAP kinase activity,16,0.143,2,0.00871,0.0637
+Cytokine receptor binding,266,2.37,7,0.00977,0.0702
+Peptidase inhibitor activity,207,1.84,6,0.0106,0.0745
+Receptor signaling protein serine/threonine kinase activity,52,0.463,3,0.0111,0.077
+Protein C_terminus binding,160,1.43,5,0.0142,0.0963
+Cytoskeletal protein binding,738,6.57,13,0.0144,0.0963
+Identical protein binding,910,8.11,15,0.0154,0.101
+Phosphatase binding,116,1.03,4,0.02,0.129
+Cytokine binding,66,0.588,3,0.021,0.132
+Cytokine binding,66,0.588,3,0.021,0.132
+Glycosaminoglycan binding,178,1.59,5,0.0215,0.133
+Transmembrane receptor protein kinase activity,125,1.11,4,0.0255,0.155
+Heparin binding,130,1.16,4,0.0289,0.173
+Drug binding,85,0.757,3,0.0402,0.236
+Transmembrane receptor protein tyrosine kinase activity,88,0.784,3,0.0439,0.254
+Rho GTPase activator activity,39,0.347,2,0.0471,0.269
+Lipid binding,788,7.02,12,0.0484,0.272

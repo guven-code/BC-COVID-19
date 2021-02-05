@@ -1,0 +1,4000 @@
+[[1]]
+NULL
+
+[[2]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007374834
+
+[[3]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004656803
+
+[[4]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03803958
+
+[[5]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02098864
+
+[[6]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006702704
+
+[[7]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007374834
+
+[[8]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007374834
+
+[[9]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007374834
+
+[[10]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005473939
+
+[[11]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007374834
+
+[[12]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007122019
+
+[[13]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001089002
+
+[[14]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02538903
+
+[[15]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02386947
+
+[[16]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009561811
+
+[[17]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.789471e-07
+
+[[18]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.616131e-05
+
+[[19]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.428841e-08
+
+[[20]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0322775
+
+[[21]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04729306
+
+[[22]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006515923
+
+[[23]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03302197
+
+[[24]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04378348
+
+[[25]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.734163e-07
+
+[[26]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03162808
+
+[[27]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04214838
+
+[[28]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04592511
+
+[[29]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          3.61516e-05
+
+[[30]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.522512e-07
+
+[[31]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03340699
+
+[[32]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03340699
+
+[[33]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.542956e-07
+
+[[34]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01980535
+
+[[35]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0150374
+
+[[36]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002207269
+
+[[37]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00397586
+
+[[38]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02191715
+
+[[39]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006099194
+
+[[40]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004933734
+
+[[41]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02584296
+
+[[42]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03760192
+
+[[43]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0212109
+
+[[44]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02621402
+
+[[45]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.044279
+
+[[46]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0224644
+
+[[47]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0224644
+
+[[48]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02186212
+
+[[49]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03735908
+
+[[50]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.262961e-05
+
+[[51]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003293177
+
+[[52]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01410709
+
+[[53]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007977054
+
+[[54]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03470651
+
+[[55]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.111137e-08
+
+[[56]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.385307e-07
+
+[[57]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002188559
+
+[[58]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.020929
+
+[[59]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001137736
+
+[[60]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005484874
+
+[[61]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001168095
+
+[[62]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03709554
+
+[[63]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.653583e-06
+
+[[64]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04385853
+
+[[65]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02607319
+
+[[66]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003034503
+
+[[67]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006039415
+
+[[68]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003156867
+
+[[69]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0127767
+
+[[70]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02264549
+
+[[71]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002045131
+
+[[72]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004631433
+
+[[73]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00870918
+
+[[74]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04783424
+
+[[75]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.333607e-09
+
+[[76]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002938155
+
+[[77]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.722888e-05
+
+[[78]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001857439
+
+[[79]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01547444
+
+[[80]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.176115e-06
+
+[[81]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03928599
+
+[[82]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03928599
+
+[[83]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.665075e-06
+
+[[84]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002875289
+
+[[85]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.024473
+
+[[86]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02960632
+
+[[87]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04379496
+
+[[88]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.676095e-06
+
+[[89]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002413891
+
+[[90]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02982756
+
+[[91]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006702704
+
+[[92]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02098864
+
+[[93]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04112533
+
+[[94]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02374865
+
+[[95]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002413891
+
+[[96]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02982756
+
+[[97]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02494419
+
+[[98]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04090656
+
+[[99]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001084493
+
+[[100]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000968465
+
+[[101]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002050067
+
+[[102]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003013086
+
+[[103]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04028907
+
+[[104]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002102915
+
+[[105]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03157024
+
+[[106]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.656851e-07
+
+[[107]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001988511
+
+[[108]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001852292
+
+[[109]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02487079
+
+[[110]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009917906
+
+[[111]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.390483e-05
+
+[[112]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04016388
+
+[[113]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0365292
+
+[[114]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0365292
+
+[[115]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01051269
+
+[[116]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.322426e-05
+
+[[117]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04342942
+
+[[118]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04854789
+
+[[119]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.348281e-05
+
+[[120]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0365292
+
+[[121]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004460693
+
+[[122]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002840396
+
+[[123]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0302558
+
+[[124]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007374834
+
+[[125]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02509801
+
+[[126]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002193674
+
+[[127]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02777871
+
+[[128]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01149244
+
+[[129]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.513975e-05
+
+[[130]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.035468e-05
+
+[[131]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04919005
+
+[[132]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.325243e-05
+
+[[133]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.150529e-07
+
+[[134]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001473074
+
+[[135]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0185123
+
+[[136]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01980304
+
+[[137]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.188863e-06
+
+[[138]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001084325
+
+[[139]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01190647
+
+[[140]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.107332e-05
+
+[[141]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0436651
+
+[[142]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04709605
+
+[[143]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006303829
+
+[[144]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01610031
+
+[[145]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.970576e-05
+
+[[146]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002074433
+
+[[147]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001696953
+
+[[148]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001696953
+
+[[149]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001696953
+
+[[150]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002074433
+
+[[151]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02144818
+
+[[152]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003914843
+
+[[153]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003226014
+
+[[154]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01440703
+
+[[155]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0192022
+
+[[156]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004935818
+
+[[157]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009849351
+
+[[158]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01612608
+
+[[159]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.912724e-07
+
+[[160]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00863719
+
+[[161]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006983014
+
+[[162]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.490983e-05
+
+[[163]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009306045
+
+[[164]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03111864
+
+[[165]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.533303e-07
+
+[[166]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008258445
+
+[[167]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003383602
+
+[[168]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01291974
+
+[[169]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008314624
+
+[[170]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02764755
+
+[[171]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000283011
+
+[[172]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.362745e-05
+
+[[173]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.781696e-05
+
+[[174]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003022594
+
+[[175]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01128642
+
+[[176]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01712628
+
+[[177]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04604075
+
+[[178]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000277488
+
+[[179]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0149808
+
+[[180]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001720211
+
+[[181]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001760548
+
+[[182]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.402102e-05
+
+[[183]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04819969
+
+[[184]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.051297e-06
+
+[[185]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02796609
+
+[[186]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02796609
+
+[[187]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04093018
+
+[[188]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.727154e-06
+
+[[189]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01758413
+
+[[190]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02982756
+
+[[191]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02982756
+
+[[192]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02982756
+
+[[193]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007770747
+
+[[194]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          2.53855e-05
+
+[[195]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04348268
+
+[[196]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001252964
+
+[[197]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02368875
+
+[[198]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.605033e-05
+
+[[199]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001579553
+
+[[200]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0196855
+
+[[201]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006572127
+
+[[202]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[203]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004733336
+
+[[204]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[205]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[206]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[207]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004733336
+
+[[208]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002417244
+
+[[209]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[210]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[211]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04379753
+
+[[212]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04379753
+
+[[213]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[214]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003244648
+
+[[215]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04849647
+
+[[216]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.046341
+
+[[217]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008659864
+
+[[218]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0122539
+
+[[219]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009950912
+
+[[220]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01610463
+
+[[221]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006151493
+
+[[222]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03955172
+
+[[223]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008352395
+
+[[224]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009729917
+
+[[225]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00142082
+
+[[226]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03955172
+
+[[227]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.012543e-06
+
+[[228]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01532767
+
+[[229]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01947916
+
+[[230]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           4.7633e-05
+
+[[231]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[232]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009950912
+
+[[233]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           4.7633e-05
+
+[[234]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006480239
+
+[[235]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001698097
+
+[[236]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008159084
+
+[[237]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01782654
+
+[[238]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03084899
+
+[[239]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01413428
+
+[[240]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03385505
+
+[[241]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03627576
+
+[[242]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001548052
+
+[[243]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[244]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[245]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[246]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[247]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[248]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[249]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[250]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[251]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[252]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[253]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[254]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[255]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[256]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[257]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[258]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[259]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[260]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[261]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[262]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[263]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01618522
+
+[[264]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001861701
+
+[[265]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.303887e-05
+
+[[266]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001789482
+
+[[267]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002817799
+
+[[268]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002039786
+
+[[269]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02427703
+
+[[270]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04792389
+
+[[271]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009413699
+
+[[272]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003710481
+
+[[273]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001461948
+
+[[274]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006689728
+
+[[275]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01127884
+
+[[276]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[277]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02676322
+
+[[278]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03302926
+
+[[279]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.631225e-05
+
+[[280]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03952532
+
+[[281]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.631225e-05
+
+[[282]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03952532
+
+[[283]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001231282
+
+[[284]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000235045
+
+[[285]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002770458
+
+[[286]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002770458
+
+[[287]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.533999e-12
+
+[[288]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02758517
+
+[[289]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03197112
+
+[[290]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00486594
+
+[[291]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003585411
+
+[[292]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01061992
+
+[[293]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006432812
+
+[[294]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006432812
+
+[[295]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01228417
+
+[[296]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006488799
+
+[[297]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          2.69502e-06
+
+[[298]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004613611
+
+[[299]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.085911e-07
+
+[[300]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02808784
+
+[[301]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[302]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008215443
+
+[[303]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00447862
+
+[[304]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007810991
+
+[[305]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.858711e-05
+
+[[306]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009552593
+
+[[307]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01058796
+
+[[308]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008425873
+
+[[309]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0302021
+
+[[310]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01465248
+
+[[311]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03998633
+
+[[312]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009707151
+
+[[313]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04152378
+
+[[314]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01512661
+
+[[315]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0161322
+
+[[316]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002624828
+
+[[317]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04997202
+
+[[318]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04770748
+
+[[319]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04770748
+
+[[320]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04770748
+
+[[321]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005002675
+
+[[322]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004492915
+
+[[323]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02563237
+
+[[324]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007403029
+
+[[325]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.236679e-05
+
+[[326]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000242745
+
+[[327]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.143187e-05
+
+[[328]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.513697e-08
+
+[[329]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03493678
+
+[[330]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01274645
+
+[[331]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001991147
+
+[[332]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002122296
+
+[[333]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00968322
+
+[[334]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005863135
+
+[[335]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006706816
+
+[[336]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           1.4589e-06
+
+[[337]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           1.4589e-06
+
+[[338]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006738748
+
+[[339]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04425681
+
+[[340]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003472442
+
+[[341]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006455107
+
+[[342]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000919942
+
+[[343]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002149326
+
+[[344]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01709801
+
+[[345]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01254293
+
+[[346]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02421743
+
+[[347]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007264293
+
+[[348]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02797862
+
+[[349]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03563237
+
+[[350]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03014872
+
+[[351]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01398974
+
+[[352]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01398974
+
+[[353]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04482305
+
+[[354]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02349934
+
+[[355]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008168618
+
+[[356]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01729491
+
+[[357]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03253174
+
+[[358]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002308673
+
+[[359]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002308673
+
+[[360]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005814152
+
+[[361]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.204722e-05
+
+[[362]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004789479
+
+[[363]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.223829e-08
+
+[[364]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04631276
+
+[[365]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01665955
+
+[[366]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01781125
+
+[[367]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04345987
+
+[[368]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02009687
+
+[[369]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02565312
+
+[[370]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008482325
+
+[[371]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009469582
+
+[[372]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.642888e-05
+
+[[373]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0398266
+
+[[374]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004873471
+
+[[375]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.642888e-05
+
+[[376]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02776809
+
+[[377]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.973461e-06
+
+[[378]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01977345
+
+[[379]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02228816
+
+[[380]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003909117
+
+[[381]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0286702
+
+[[382]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0024112
+
+[[383]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002332394
+
+[[384]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03644404
+
+[[385]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.244136e-07
+
+[[386]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01133797
+
+[[387]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005042282
+
+[[388]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03970319
+
+[[389]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03970319
+
+[[390]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00408916
+
+[[391]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03059392
+
+[[392]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003190795
+
+[[393]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02351565
+
+[[394]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.335432e-07
+
+[[395]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.124478e-06
+
+[[396]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01102444
+
+[[397]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01908857
+
+[[398]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000398066
+
+[[399]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02799272
+
+[[400]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009289107
+
+[[401]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009289107
+
+[[402]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02692116
+
+[[403]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003136506
+
+[[404]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003136506
+
+[[405]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04402107
+
+[[406]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001953101
+
+[[407]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02621553
+
+[[408]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01161976
+
+[[409]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02288173
+
+[[410]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002047428
+
+[[411]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001004383
+
+[[412]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03155668
+
+[[413]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01914226
+
+[[414]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007581342
+
+[[415]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007581342
+
+[[416]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00963365
+
+[[417]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009729917
+
+[[418]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.837848e-06
+
+[[419]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02036321
+
+[[420]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[421]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[422]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0475162
+
+[[423]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          9.37629e-07
+
+[[424]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03553695
+
+[[425]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002259848
+
+[[426]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01639738
+
+[[427]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002149326
+
+[[428]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.916566e-06
+
+[[429]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003170374
+
+[[430]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.356893e-06
+
+[[431]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.264489e-09
+
+[[432]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007665604
+
+[[433]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.986535e-05
+
+[[434]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04200205
+
+[[435]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03955172
+
+[[436]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006151493
+
+[[437]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01610463
+
+[[438]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009950912
+
+[[439]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0122539
+
+[[440]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008659864
+
+[[441]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.046341
+
+[[442]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04849647
+
+[[443]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.046341
+
+[[444]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03955172
+
+[[445]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03078139
+
+[[446]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04933848
+
+[[447]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01223399
+
+[[448]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03457155
+
+[[449]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.676266e-05
+
+[[450]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.645075e-05
+
+[[451]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01467265
+
+[[452]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006655923
+
+[[453]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001431019
+
+[[454]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.572533e-07
+
+[[455]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.572533e-07
+
+[[456]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01091762
+
+[[457]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007778833
+
+[[458]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008242175
+
+[[459]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.203946e-06
+
+[[460]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02888146
+
+[[461]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007752528
+
+[[462]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.495242e-07
+
+[[463]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001751977
+
+[[464]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04833923
+
+[[465]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003468428
+
+[[466]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006243531
+
+[[467]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01721063
+
+[[468]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.406286e-05
+
+[[469]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04785179
+
+[[470]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02122772
+
+[[471]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003955761
+
+[[472]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005207527
+
+[[473]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.019882e-05
+
+[[474]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02194361
+
+[[475]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.965708e-06
+
+[[476]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02593684
+
+[[477]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006546695
+
+[[478]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03071221
+
+[[479]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02976251
+
+[[480]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004207125
+
+[[481]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02976251
+
+[[482]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03071221
+
+[[483]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003170743
+
+[[484]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04495695
+
+[[485]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0249518
+
+[[486]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0190721
+
+[[487]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006468986
+
+[[488]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009702318
+
+[[489]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003189307
+
+[[490]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.087594e-10
+
+[[491]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005502559
+
+[[492]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009663251
+
+[[493]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005981574
+
+[[494]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03929956
+
+[[495]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02573806
+
+[[496]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004680004
+
+[[497]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.923537e-06
+
+[[498]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01221021
+
+[[499]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003828485
+
+[[500]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002141828
+
+[[501]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002141828
+
+[[502]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.642736e-05
+
+[[503]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03667821
+
+[[504]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002424932
+
+[[505]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.034402
+
+[[506]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01614499
+
+[[507]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.034402
+
+[[508]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02949143
+
+[[509]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004696206
+
+[[510]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.301645e-07
+
+[[511]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006307046
+
+[[512]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01788967
+
+[[513]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006354945
+
+[[514]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006449292
+
+[[515]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02701043
+
+[[516]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.369477e-07
+
+[[517]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          7.62426e-06
+
+[[518]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007098423
+
+[[519]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004325356
+
+[[520]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002955738
+
+[[521]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008660343
+
+[[522]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004404593
+
+[[523]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004687536
+
+[[524]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.796937e-05
+
+[[525]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001756679
+
+[[526]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.505025e-06
+
+[[527]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.663517e-06
+
+[[528]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03443793
+
+[[529]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02709506
+
+[[530]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04434886
+
+[[531]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005895795
+
+[[532]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005895795
+
+[[533]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005895795
+
+[[534]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001638264
+
+[[535]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0025804
+
+[[536]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00185219
+
+[[537]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003280153
+
+[[538]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006083195
+
+[[539]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01438462
+
+[[540]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004324119
+
+[[541]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001263298
+
+[[542]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01635474
+
+[[543]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002493951
+
+[[544]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002072618
+
+[[545]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01503768
+
+[[546]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001289679
+
+[[547]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.400276e-06
+
+[[548]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[549]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03808023
+
+[[550]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03058699
+
+[[551]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.396926e-06
+
+[[552]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02001236
+
+[[553]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02775449
+
+[[554]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.496079e-05
+
+[[555]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04052015
+
+[[556]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007688456
+
+[[557]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.306455e-06
+
+[[558]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02118914
+
+[[559]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04232192
+
+[[560]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003085301
+
+[[561]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01065954
+
+[[562]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.769373e-05
+
+[[563]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009505253
+
+[[564]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009505253
+
+[[565]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00561578
+
+[[566]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01212515
+
+[[567]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001938283
+
+[[568]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01154634
+
+[[569]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04429502
+
+[[570]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004039338
+
+[[571]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.002578
+
+[[572]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009365154
+
+[[573]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.170858e-05
+
+[[574]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.881812e-05
+
+[[575]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002691202
+
+[[576]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01602726
+
+[[577]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005062618
+
+[[578]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.622559e-05
+
+[[579]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.059538e-07
+
+[[580]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.611935e-05
+
+[[581]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006537063
+
+[[582]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02795467
+
+[[583]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          2.73969e-06
+
+[[584]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001570113
+
+[[585]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0151619
+
+[[586]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02196432
+
+[[587]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.577737e-06
+
+[[588]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00829558
+
+[[589]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.707519e-08
+
+[[590]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002450242
+
+[[591]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.326419e-08
+
+[[592]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01044949
+
+[[593]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007413043
+
+[[594]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004733336
+
+[[595]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          3.60734e-05
+
+[[596]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01910508
+
+[[597]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02111796
+
+[[598]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004070376
+
+[[599]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04110348
+
+[[600]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006105071
+
+[[601]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01543151
+
+[[602]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006001802
+
+[[603]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.381471e-06
+
+[[604]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.146508e-07
+
+[[605]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007113129
+
+[[606]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003364481
+
+[[607]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001042868
+
+[[608]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.281633e-07
+
+[[609]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002502756
+
+[[610]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04209613
+
+[[611]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01314568
+
+[[612]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002041339
+
+[[613]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.007408e-05
+
+[[614]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.793064e-05
+
+[[615]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001875126
+
+[[616]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01188701
+
+[[617]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.328347e-05
+
+[[618]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001622148
+
+[[619]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001121887
+
+[[620]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001355691
+
+[[621]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03698784
+
+[[622]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04778814
+
+[[623]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005189784
+
+[[624]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004556883
+
+[[625]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.119167e-07
+
+[[626]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.023147e-09
+
+[[627]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003719528
+
+[[628]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02174858
+
+[[629]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.807517e-08
+
+[[630]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002580506
+
+[[631]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03567189
+
+[[632]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008020851
+
+[[633]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0177605
+
+[[634]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.498059e-05
+
+[[635]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.366765e-09
+
+[[636]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001125815
+
+[[637]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04291957
+
+[[638]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006678858
+
+[[639]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02373764
+
+[[640]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02700836
+
+[[641]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.586282e-05
+
+[[642]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.586282e-05
+
+[[643]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005433826
+
+[[644]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005433826
+
+[[645]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.672724e-06
+
+[[646]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01289838
+
+[[647]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01889545
+
+[[648]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02398831
+
+[[649]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.489721e-13
+
+[[650]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02217958
+
+[[651]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01909426
+
+[[652]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002071005
+
+[[653]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002071005
+
+[[654]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002406219
+
+[[655]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.570822e-07
+
+[[656]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02615156
+
+[[657]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005232008
+
+[[658]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02454938
+
+[[659]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0485554
+
+[[660]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0485554
+
+[[661]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0485554
+
+[[662]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008283177
+
+[[663]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01486392
+
+[[664]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002122296
+
+[[665]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002122296
+
+[[666]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.360229e-07
+
+[[667]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03462006
+
+[[668]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03462006
+
+[[669]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002024033
+
+[[670]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03396537
+
+[[671]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001547194
+
+[[672]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.351679e-08
+
+[[673]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002009786
+
+[[674]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04936218
+
+[[675]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02052536
+
+[[676]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009409826
+
+[[677]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0215326
+
+[[678]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02909873
+
+[[679]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002635722
+
+[[680]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01972305
+
+[[681]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01010512
+
+[[682]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.136596e-05
+
+[[683]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001808462
+
+[[684]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01010453
+
+[[685]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04379753
+
+[[686]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03433594
+
+[[687]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01635474
+
+[[688]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[689]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003155239
+
+[[690]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003155239
+
+[[691]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[692]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.736987e-05
+
+[[693]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[694]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[695]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.736987e-05
+
+[[696]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[697]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[698]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007302485
+
+[[699]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[700]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005862938
+
+[[701]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007257664
+
+[[702]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006630855
+
+[[703]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01924729
+
+[[704]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0190384
+
+[[705]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[706]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[707]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02005644
+
+[[708]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[709]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006764147
+
+[[710]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001672551
+
+[[711]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[712]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0032104
+
+[[713]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04649008
+
+[[714]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001202431
+
+[[715]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001378572
+
+[[716]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03242747
+
+[[717]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[718]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[719]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[720]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[721]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[722]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[723]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[724]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[725]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04827659
+
+[[726]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001423335
+
+[[727]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0409966
+
+[[728]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007545869
+
+[[729]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.485516e-07
+
+[[730]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003858934
+
+[[731]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.764651e-05
+
+[[732]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001139531
+
+[[733]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01958491
+
+[[734]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[735]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0134485
+
+[[736]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001349984
+
+[[737]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[738]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002890329
+
+[[739]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01334924
+
+[[740]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          1.20201e-07
+
+[[741]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.520534e-06
+
+[[742]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007381991
+
+[[743]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0009476829
+
+[[744]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.821645e-05
+
+[[745]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008887167
+
+[[746]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02710242
+
+[[747]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01118261
+
+[[748]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001689857
+
+[[749]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01136326
+
+[[750]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02358605
+
+[[751]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.176266e-08
+
+[[752]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007826499
+
+[[753]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004206772
+
+[[754]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[755]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004206772
+
+[[756]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01132694
+
+[[757]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007408859
+
+[[758]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[759]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03839726
+
+[[760]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[761]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[762]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01322387
+
+[[763]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005717207
+
+[[764]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002308228
+
+[[765]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02175836
+
+[[766]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03181171
+
+[[767]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04484329
+
+[[768]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.011751e-05
+
+[[769]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01018896
+
+[[770]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001841411
+
+[[771]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002836957
+
+[[772]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.038309e-07
+
+[[773]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.256201e-05
+
+[[774]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.406755e-06
+
+[[775]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001311017
+
+[[776]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                             0.013826
+
+[[777]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001970057
+
+[[778]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01262282
+
+[[779]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01277063
+
+[[780]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[781]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005862938
+
+[[782]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008507336
+
+[[783]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01164649
+
+[[784]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008361083
+
+[[785]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002835184
+
+[[786]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04209774
+
+[[787]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.007171222
+
+[[788]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03301491
+
+[[789]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02250158
+
+[[790]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008361083
+
+[[791]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04613676
+
+[[792]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001685051
+
+[[793]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04398297
+
+[[794]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0030582
+
+[[795]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004662271
+
+[[796]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000146676
+
+[[797]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003326398
+
+[[798]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001377963
+
+[[799]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01481467
+
+[[800]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          9.12272e-08
+
+[[801]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03264436
+
+[[802]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03589376
+
+[[803]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03661999
+
+[[804]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02047301
+
+[[805]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004806305
+
+[[806]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004403769
+
+[[807]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005554978
+
+[[808]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007777378
+
+[[809]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02297661
+
+[[810]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.531148e-06
+
+[[811]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.162858e-08
+
+[[812]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008844412
+
+[[813]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008290966
+
+[[814]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03000322
+
+[[815]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001428381
+
+[[816]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00328154
+
+[[817]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0122647
+
+[[818]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03296649
+
+[[819]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006701868
+
+[[820]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002023449
+
+[[821]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.494721e-05
+
+[[822]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003263082
+
+[[823]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005354111
+
+[[824]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01136561
+
+[[825]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003378758
+
+[[826]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009141916
+
+[[827]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002624521
+
+[[828]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.196031e-10
+
+[[829]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009601255
+
+[[830]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008492977
+
+[[831]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006589774
+
+[[832]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.494121e-05
+
+[[833]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[834]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02430693
+
+[[835]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001330351
+
+[[836]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03921016
+
+[[837]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001027255
+
+[[838]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001375071
+
+[[839]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003301773
+
+[[840]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.004457e-05
+
+[[841]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01237388
+
+[[842]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00430372
+
+[[843]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[844]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[845]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[846]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[847]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[848]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[849]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[850]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04889652
+
+[[851]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.395071e-06
+
+[[852]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001704493
+
+[[853]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[854]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0190384
+
+[[855]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0362509
+
+[[856]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03417594
+
+[[857]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01312823
+
+[[858]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02005644
+
+[[859]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004107201
+
+[[860]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.966696e-06
+
+[[861]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005271234
+
+[[862]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.000832179
+
+[[863]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.662447e-10
+
+[[864]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.384388e-05
+
+[[865]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02477424
+
+[[866]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02477424
+
+[[867]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02946769
+
+[[868]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04120743
+
+[[869]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002664165
+
+[[870]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04159336
+
+[[871]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008446437
+
+[[872]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001525877
+
+[[873]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02847119
+
+[[874]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.886896e-05
+
+[[875]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01316889
+
+[[876]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0261463
+
+[[877]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.431934e-09
+
+[[878]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.907502e-08
+
+[[879]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03912593
+
+[[880]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001543563
+
+[[881]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[882]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[883]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02399623
+
+[[884]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02761067
+
+[[885]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0336356
+
+[[886]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03558667
+
+[[887]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.180641e-06
+
+[[888]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.509454e-06
+
+[[889]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.254533e-05
+
+[[890]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008411816
+
+[[891]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003964227
+
+[[892]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01378381
+
+[[893]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005255186
+
+[[894]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002071741
+
+[[895]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009605715
+
+[[896]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005016747
+
+[[897]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0133806
+
+[[898]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03100881
+
+[[899]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001192149
+
+[[900]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01919747
+
+[[901]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         8.084875e-07
+
+[[902]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03415128
+
+[[903]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002960452
+
+[[904]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002410036
+
+[[905]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0004321632
+
+[[906]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          3.06461e-06
+
+[[907]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0378209
+
+[[908]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001719485
+
+[[909]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01456596
+
+[[910]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008848265
+
+[[911]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006756057
+
+[[912]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01726854
+
+[[913]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01382376
+
+[[914]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001104453
+
+[[915]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002681611
+
+[[916]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0008095589
+
+[[917]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[918]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[919]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03598359
+
+[[920]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.301161e-05
+
+[[921]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.005595526
+
+[[922]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02617441
+
+[[923]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008000266
+
+[[924]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008000266
+
+[[925]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.924612e-05
+
+[[926]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02278633
+
+[[927]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.001295517
+
+[[928]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01698141
+
+[[929]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0484155
+
+[[930]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006764147
+
+[[931]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01000467
+
+[[932]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03659227
+
+[[933]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0484582
+
+[[934]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03884496
+
+[[935]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.941916e-08
+
+[[936]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.668999e-05
+
+[[937]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03062337
+
+[[938]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00897474
+
+[[939]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003843684
+
+[[940]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.008459759
+
+[[941]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0160181
+
+[[942]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.00242733
+
+[[943]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.006240946
+
+[[944]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02718343
+
+[[945]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04738409
+
+[[946]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001918917
+
+[[947]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0140926
+
+[[948]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0140926
+
+[[949]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.009264629
+
+[[950]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0275259
+
+[[951]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0007361854
+
+[[952]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02166939
+
+[[953]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001837973
+
+[[954]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         7.353817e-06
+
+[[955]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.733703e-07
+
+[[956]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01343307
+
+[[957]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03310731
+
+[[958]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02201451
+
+[[959]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03155936
+
+[[960]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.072237e-08
+
+[[961]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003952418
+
+[[962]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002226633
+
+[[963]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.04012115
+
+[[964]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01175378
+
+[[965]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01175378
+
+[[966]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03454759
+
+[[967]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004661347
+
+[[968]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0005687297
+
+[[969]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.949568e-05
+
+[[970]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0002094492
+
+[[971]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.641965e-09
+
+[[972]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0351519
+
+[[973]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003866591
+
+[[974]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         5.256201e-05
+
+[[975]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02764789
+
+[[976]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0001809505
+
+[[977]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0153416
+
+[[978]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                            0.0395533
+
+[[979]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03365907
+
+[[980]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002995802
+
+[[981]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.002995802
+
+[[982]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003855842
+
+[[983]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         1.656626e-07
+
+[[984]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.03115032
+
+[[985]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0003986099
+
+[[986]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003875219
+
+[[987]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.126262e-09
+
+[[988]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         0.0006480637
+
+[[989]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         6.925654e-05
+
+[[990]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.332707e-06
+
+[[991]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.003877193
+
+[[992]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.01153757
+
+[[993]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02637921
+
+[[994]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                          0.004194597
+
+[[995]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         2.373282e-07
+
+[[996]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         4.810829e-06
+
+[[997]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                           0.02997629
+
+[[998]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         9.028658e-07
+
+[[999]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.595231e-05
+
+[[1000]]
+  summary(aov(as.formula(formula), data = merge1))[[1]][["Pr(>F)"]][1]
+1                                                         3.595231e-05
+
+ [ reached getOption("max.print") -- omitted 1468 entries ]

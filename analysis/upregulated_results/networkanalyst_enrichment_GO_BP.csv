@@ -1,0 +1,121 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Blood coagulation,564,5.13,59,3.24e-48,1.66e-45
+Coagulation,568,5.17,59,4.92e-48,1.66e-45
+Hemostasis,570,5.19,59,6.06e-48,1.66e-45
+Wound healing,700,6.37,63,8.42e-48,1.73e-45
+Regulation of body fluid levels,680,6.19,59,1.93e-43,3.16e-41
+Response to wounding,1310,11.9,71,1.15e-39,1.57e-37
+Epidermal growth factor receptor signaling pathway,167,1.52,35,1.35e-38,1.58e-36
+Transmembrane receptor protein tyrosine kinase signaling pathway,782,7.12,55,2.73e-35,2.8e-33
+Positive regulation of protein phosphorylation,681,6.2,51,8.61e-34,7.84e-32
+Positive regulation of phosphorylation,697,6.34,51,2.69e-33,2.2e-31
+Enzyme linked receptor protein signaling pathway,1180,10.7,61,4.49e-32,3.35e-30
+Positive regulation of phosphate metabolic process,789,7.18,52,9.21e-32,6.29e-30
+Regulation of protein phosphorylation,987,8.98,56,4.57e-31,2.88e-29
+Regulation of phosphorylation,1070,9.71,57,2.6e-30,1.53e-28
+Activation of phospholipase C activity,56,0.51,21,2.64e-29,1.44e-27
+Positive regulation of transferase activity,510,4.64,42,4.24e-29,2.17e-27
+Activation of protein kinase activity,260,2.37,33,8.05e-29,3.88e-27
+Positive regulation of protein modification process,867,7.89,51,1.01e-28,4.58e-27
+Positive regulation of cellular protein metabolic process,968,8.81,52,1.9e-27,8.2e-26
+Protein phosphorylation,1480,13.5,62,2.45e-27,1e-25
+Cell surface receptor signaling pathway,3340,30.4,88,5.56e-27,2.17e-25
+Cell activation,960,8.73,51,1.23e-26,4.58e-25
+Regulation of protein modification process,1250,11.4,56,7.73e-26,2.75e-24
+Response to endogenous stimulus,1360,12.4,58,1.09e-25,3.74e-24
+Response to hormone stimulus,751,6.83,45,2.09e-25,6.87e-24
+Phosphorylation,1680,15.3,63,2.79e-25,8.79e-24
+Positive regulation of protein metabolic process,1080,9.85,52,3.9e-25,1.19e-23
+Response to organic substance,2500,22.7,75,5.17e-25,1.51e-23
+Regulation of protein kinase activity,698,6.35,43,1.1e-24,3.11e-23
+Regulation of kinase activity,743,6.76,44,1.35e-24,3.7e-23
+Regulation of transferase activity,768,6.99,44,5.19e-24,1.37e-22
+Leukocyte migration,309,2.81,31,6.7e-24,1.72e-22
+Cell_substrate adhesion,241,2.19,28,2.28e-23,5.67e-22
+Regulation of cellular protein metabolic process,1560,14.2,58,9.82e-23,2.37e-21
+Positive regulation of catalytic activity,1070,9.73,49,1.19e-22,2.79e-21
+Regulation of protein metabolic process,1820,16.6,62,1.84e-22,4.2e-21
+Cell migration,1050,9.59,48,5.04e-22,1.12e-20
+Response to chemical stimulus,3830,34.9,87,1.04e-21,2.24e-20
+Regulation of catalytic activity,1730,15.8,59,3.13e-21,6.58e-20
+Signal transduction,6310,57.4,109,7.01e-21,1.44e-19
+Intracellular signal transduction,2450,22.3,69,7.58e-21,1.52e-19
+Cell_matrix adhesion,159,1.45,22,3.72e-20,7.27e-19
+Positive regulation of MAPK cascade,368,3.35,29,2.01e-19,3.84e-18
+Positive regulation of cellular metabolic process,2530,23,68,2.5e-19,4.66e-18
+Regulation of molecular function,2250,20.5,63,1.81e-18,3.29e-17
+Energy reserve metabolic process,199,1.81,22,5.32e-18,9.48e-17
+Regulation of hydrolase activity,843,7.67,39,6.75e-18,1.18e-16
+Peptidyl_tyrosine phosphorylation,228,2.07,23,6.93e-18,1.18e-16
+Positive regulation of metabolic process,2690,24.5,68,8.26e-18,1.38e-16
+Peptidyl_tyrosine modification,230,2.09,23,8.44e-18,1.38e-16
+Intracellular protein kinase cascade,1140,10.3,44,2.34e-17,3.76e-16
+Regulation of MAPK cascade,559,5.09,32,2.76e-17,4.28e-16
+Positive regulation of response to stimulus,1550,14.1,51,2.77e-17,4.28e-16
+Positive regulation of signal transduction,998,9.08,41,5.22e-17,7.93e-16
+Positive regulation of hydrolase activity,497,4.52,30,7.64e-17,1.14e-15
+Response to stress,4150,37.8,83,1.59e-16,2.32e-15
+Response to external stimulus,1510,13.7,49,2.53e-16,3.64e-15
+Regulation of biological quality,3400,30.9,74,4.39e-16,6.21e-15
+MAPK cascade,665,6.05,33,5.47e-16,7.61e-15
+Regulation of peptidyl_tyrosine phosphorylation,171,1.56,19,1.06e-15,1.45e-14
+Regulation of cell adhesion,294,2.67,23,1.93e-15,2.6e-14
+Secretion by cell,831,7.56,35,8.74e-15,1.16e-13
+Regulation of response to stimulus,3360,30.6,71,1.64e-14,2.14e-13
+Exocytosis,309,2.81,22,5.88e-14,7.53e-13
+Anatomical structure formation involved in morphogenesis,2090,19,54,6.9e-14,8.71e-13
+Secretion,947,8.62,36,7.53e-14,9.36e-13
+Positive regulation of cellular process,4780,43.5,85,8.11e-14,9.93e-13
+Protein modification process,3290,30,69,8.8e-14,1.06e-12
+Cellular response to stimulus,8010,72.9,112,1.31e-13,1.56e-12
+Adenylate cyclase_inhibiting G_protein coupled receptor signaling pathway,45,0.409,11,1.8e-13,2.11e-12
+Positive regulation of MAP kinase activity,197,1.79,18,1.97e-13,2.27e-12
+Regulation of transport,1220,11.1,40,3e-13,3.42e-12
+Vesicle_mediated transport,1110,10.1,38,3.4e-13,3.82e-12
+Regulation of signal transduction,2440,22.2,57,6.67e-13,7.39e-12
+Macromolecule modification,3430,31.2,69,7.25e-13,7.93e-12
+Cyclic nucleotide metabolic process,164,1.49,16,1.7e-12,1.84e-11
+Peptidyl_amino acid modification,739,6.72,30,2.74e-12,2.92e-11
+Actin cytoskeleton organization,502,4.57,25,3.04e-12,3.2e-11
+Positive regulation of biological process,5500,50,89,3.46e-12,3.59e-11
+Adenylate cyclase_modulating G_protein coupled receptor signaling pathway,120,1.09,14,3.87e-12,3.97e-11
+Immune system process,2720,24.7,59,5.33e-12,5.4e-11
+Anatomical structure morphogenesis,2820,25.6,60,6.92e-12,6.92e-11
+Regulation of endocytosis,128,1.16,14,9.46e-12,9.35e-11
+Negative regulation of programmed cell death,691,6.29,28,1.76e-11,1.72e-10
+Regulation of cellular component organization,1520,13.9,42,1.8e-11,1.74e-10
+Regulation of cell migration,456,4.15,23,1.96e-11,1.87e-10
+"G_protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",164,1.49,15,2.24e-11,2.11e-10
+Vasculature development,652,5.93,27,2.63e-11,2.45e-10
+Regulation of MAP kinase activity,272,2.47,18,4.66e-11,4.3e-10
+Energy derivation by oxidation of organic compounds,437,3.98,22,5.87e-11,5.35e-10
+Actin filament_based process,577,5.25,25,6.19e-11,5.58e-10
+Negative regulation of apoptotic process,679,6.18,27,6.61e-11,5.83e-10
+Negative regulation of apoptotic process,679,6.18,27,6.61e-11,5.83e-10
+Positive regulation of immune system process,739,6.72,28,8.46e-11,7.38e-10
+Cell_cell signaling,1310,11.9,37,2.04e-10,1.76e-09
+Positive regulation of peptidyl_tyrosine phosphorylation,134,1.22,13,2.48e-10,2.12e-09
+Purine ribonucleotide metabolic process,787,7.16,28,3.6e-10,3.04e-09
+Axon guidance,394,3.58,20,4.16e-10,3.48e-09
+Ribonucleotide metabolic process,805,7.32,28,6.01e-10,4.98e-09
+Leukocyte activation,707,6.43,26,8.52e-10,6.99e-09
+Adenylate cyclase_activating G_protein coupled receptor signaling pathway,53,0.482,9,1.02e-09,8.29e-09
+Regulation of immune system process,1190,10.9,34,1.16e-09,9.31e-09
+Tissue remodeling,126,1.15,12,1.56e-09,1.24e-08
+Purine nucleotide metabolic process,844,7.68,28,1.74e-09,1.37e-08
+Positive regulation of cell migration,263,2.39,16,2.05e-09,1.6e-08
+Axonogenesis,578,5.26,23,2.09e-09,1.61e-08
+Neuron projection development,816,7.42,27,3.81e-09,2.92e-08
+Positive regulation of T cell activation,202,1.84,14,4.21e-09,3.2e-08
+Generation of precursor metabolites and energy,603,5.49,23,4.68e-09,3.52e-08
+Positive regulation of cellular component organization,560,5.1,22,6.2e-09,4.62e-08
+Regulation of programmed cell death,1550,14.1,38,6.79e-09,5.02e-08
+Positive regulation of transport,570,5.19,22,8.55e-09,6.26e-08
+Angiogenesis,426,3.88,19,9.96e-09,7.23e-08
+Neurogenesis,1390,12.7,35,1.61e-08,1.16e-07
+Regulation of apoptotic process,1540,14,37,1.72e-08,1.23e-07
+Cell proliferation,1900,17.3,42,1.74e-08,1.23e-07
+Cellular protein metabolic process,4540,41.3,72,1.98e-08,1.39e-07
+Insulin receptor signaling pathway,192,1.75,13,2.05e-08,1.42e-07
+Protein autophosphorylation,192,1.75,13,2.05e-08,1.42e-07
+Protein metabolic process,5570,50.7,82,2.08e-08,1.42e-07
