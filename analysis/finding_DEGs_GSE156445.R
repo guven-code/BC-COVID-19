@@ -259,7 +259,7 @@ pdf("plots/vhc_trCIPAug_hist&scatter.pdf")
 par(mfrow=c(2,1))
 hist(-log10(pvalue_vhc_trCIPAug), breaks = 100, ylim=c(0,120),col = "blue")
 plot(fc_vhc_trCIPAug, -log10(pvalue_vhc_trCIPAug), main = "GSE156445 - Volcano")
-fold_cutoff = 0.05
+fold_cutoff = 1 #0.05
 pvalue_cutoff = 0.05
 abline(v = fold_cutoff, col = "blue", lwd = 3)
 abline(v = -fold_cutoff, col = "red", lwd = 3)
